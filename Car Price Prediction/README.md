@@ -11,3 +11,8 @@ Used Car Prices in UK Dataset is a comprehensive collection of automotive inform
 * mpg
 * engineSize
 
+## General Information
+
+```sh
+   Rectified Linear Unit
+   ```
