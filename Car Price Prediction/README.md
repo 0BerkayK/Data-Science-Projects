@@ -13,3 +13,5 @@ Used Car Prices in UK Dataset is a comprehensive collection of automotive inform
 
 ## Importing the Dataset
 
+I got the data set in Excel from kaggle.com and imported it into my project.
+
